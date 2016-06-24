@@ -286,7 +286,7 @@ Error Backing up database: %s	Ошибка базы данных резервн�
 Error restoring database: %s	Ошибка при восстановлении базы данных: %s
 Can't find Interbase Server in Registry (%s)	Не удается найти сервер Interbase в реестре (%s)
 Script failed: %s	Сценарий не удалася:%s
-Error shutting down database: %s	Ошибка завершения работы базы данных: %s  
+Error shutting down database: %s	Ошибка завершения работы базы данных: %s
 Error starting database: %s	Ошибка при запуске базы данных: %s
 Error reading Graphic Element from stream. Can't read version.	
 Error reading Graphic Element from stream. Can't read Word Wrap.	
@@ -2420,7 +2420,7 @@ Windows CE	Windows CE
 Android/IOS	Android/IOS
 Remote hand terminal	Пульт ручного терминала
 NFC Reader	NFC считыватель
-Send NFC as	Отправить NFC в качестве
+Send NFC as	Отправить NFC в качестве2
 Keystrokes	Нажатие клавиш
 Smartcard UID	Смарт карта UID
 $FORMNAME	FilterEntryParamsFram
@@ -2615,7 +2615,7 @@ Orderman OMB4	Заказ ОМВ4
 $FORMNAME	BookkeepingEntityManager
 New Bookkeeping	Новый Бухгалтерский учет
 Bookkeeping	Бухг. учет
-Account	Счет
+Account	Счет2
 Description	Описание
 $FORMNAME	BookkeepingPeriodsEntityManager
 New bookkeeping period	Новый период бухг.учета
