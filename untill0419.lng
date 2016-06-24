@@ -1,4 +1,4 @@
-$LANGUAGE	Russian
+﻿$LANGUAGE	Russian
 $FORMNAME	Common
 Monday	Понедельник
 Tuesday	Вторник
@@ -8,7 +8,7 @@ Friday	Пятница
 Saturday	Суббота
 Sunday	Воскресенье
 False	Ложь
-True	Истина
+True	Истина2
 No	Нет
 Yes	Да
 Please enter %s	Введите, пожалуйста, %s
