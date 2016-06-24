@@ -13,7 +13,7 @@ adjustProperty('ReleaseBuildsPath', AlphaBuildsPath)
 adjustProperty('FirebirdSysdbaPassword', null)
 
   /////////////////////
- // Private methods //
+ // Private- methods //
 /////////////////////
 
 void adjustProperty(String propertyName, String defaultValue, boolean required = false) {
