@@ -153,7 +153,7 @@ Selected	Выделить
 Mass modify records	Массовое изменение записей
 Record was deleted by another user	
 Database is not connected	База данных не подключена
-Error executing update SQL: %s	
+Error executing update SQL: %s	Ошибка при выполнении обновления SQL: %s
 Can not delete from "%s": table %s contains link to this record	
 Error executing delete SQL: %s	Ошибка при выполнении удалить SQL: %s
 Error executing insert SQL: %s	
